@@ -1,1 +1,1 @@
-# eclipseDanceCrewMunich.github.io
+# EclipseDanceCrewMunich.github.io
