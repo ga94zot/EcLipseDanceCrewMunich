@@ -2,7 +2,7 @@
 layout: page
 title: "Location"
 permalink: /location/
-photo: "tum-donau.jpg"
+photo: "head-3.jpg"
 ---
 The EcLipse Dance Crew Munich takes place at the [ESV Ost](https://www.esv-muenchen-ost.de/esv/index.php).
 
