@@ -5,7 +5,11 @@ permalink: /howto/
 photo: "header-tum.jpg"
 ---
 
-The summer school is open for PhD and advanced master students, for Postdocs, and academic advisors working in the research areas listed. 
+说实话我也不知道怎么加入，感觉可能有点难？
+
+
+
+<!-- The summer school is open for PhD and advanced master students, for Postdocs, and academic advisors working in the research areas listed. 
 The working language at the summer school is English. 
 Participants are encouraged to present and discuss their research in oral presentations.
 To apply for a presentation, participants need to **submit** a title, and a short abstract (approximately 200 words). 
@@ -66,4 +70,4 @@ Prepare a research paper with your colleague(s) about the outcome of your joint 
 If this paper gets accepted for a conference or preliminarily accepted subject to a revision for a journal by the date of the next SVCP in July 2023, you may apply for the award.
 
 For application please send your paper including acceptance notice to <a href="mailto:andre.kaup@fau.de" target="_blank">Prof. André Kaup</a>, spokesperson of the ITG Technical Committee MT 2, before next SVCP in July 2023. 
-Decision for the award is based on novelty, clarity, and team involvement and will be taken by the ITG Technical Committee MT 2.
+Decision for the award is based on novelty, clarity, and team involvement and will be taken by the ITG Technical Committee MT 2. -->
