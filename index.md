@@ -10,33 +10,19 @@ layout: home
 ## Dance Group Description:
 EcLipse Dance Group is based in Munich, Germany and was officially established in 2017/18. EcLipse is the most active Chinese dance Group in Germany with rich experience in street dance/Kpop performances and competitions. EcLipse is a big family with absolute love for dancing, and the main dance genres of the group are Kpop and street dance choreography. The group has been regularly performing in spring festivals all over Germany, and has won the third place in the local Kpop competition and the professional first and second place in the online street dance Kpop competition for international students in Germany. The dance group also regularly organizes street dance and hip-hop cultural events for public benefit and online and offline dance public classes. We have participated in many German Kpop dance competitions and won the group championship and third place. The dance group also has rich experience in organizing basic classes, advanced classes and workshops, and has close cooperation with other local dance groups in Germany.
 
-## Important Dates
-
-* Pre-School Event: evening of **03 July 2023** 
-* Summer School: **04 -- 05 July 2023** 
-
 ## Topics of Interest
+* K-POP
+* Old School 
 
-* Techniques for next generation image and video coding
-* Machine learning for image, video and data processing and compression
-* Compression algorithms for 2D, 3D, 360-degree and multi-view video and images
-* Coding and processing of multispectral data
-* Image and video signal analysis
-* Quality assessment/Quality of Experience (QoE)
-* Virtual, mixed and augmented reality
-* Technology for video transmission and networked systems
-* Architecture and implementation aspects
-
-Contributions focus on novel research aspects but do not have to provide unpublished material. Presentations, posters, or demos can be an overview of the participant's research fields including challenges, open topics, and problems in current research. 
-The aim is to bring together young researchers with similar topics and provide a basis for fruitful scientific discussions, motivating future cooperation.
+## Members
+好吧这里我想好了想怎么搞但是奈何能力还不允许。
+让我再学一会。。。
 
 ## Organizers 
 
-![TUM logo](/assets/images/tum-logo.png) 
-![LMT logo](/assets/images/lmt-logo.png)
-
-ITG-Fachausschusses MT 2 "Bildkommunikation und Bildverarbeitung"
+![eclipse logo](/assets/images/eclipse-logo.png) 
 
 ## Sponsors
 
-[![technoteam logo](/assets/images/lmt-logo.png)](https://www.ce.cit.tum.de/lmt/startseite/)
+**广告位置招租同志们！**
+**爸爸们**你们在哪呢？
