@@ -24,5 +24,5 @@ EcLipse Dance Group is based in Munich, Germany and was officially established i
 
 ## Sponsors
 
-**广告位置招租同志们！**
+**广告位置招租 :)**
 **爸爸们**你们在哪呢？
